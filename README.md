@@ -1,1 +1,1 @@
-# Alzhiemer's Disease Classification
+# Alzheimer's Disease Classification
