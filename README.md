@@ -1,1 +1,1 @@
-# AD-Classification
+# Alzhiemer's Disease Classification
